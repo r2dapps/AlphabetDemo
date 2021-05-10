@@ -1,0 +1,16 @@
+{
+"companyName": "DemoAlphabet",
+"productName": "EnglishTracingBook",
+"productVersion": "0.1",
+"dataUrl": "WebGL_Demo.data.unityweb",
+"wasmCodeUrl": "WebGL_Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL_Demo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.6f1"
+}
